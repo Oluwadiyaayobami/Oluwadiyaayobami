@@ -1,6 +1,6 @@
 # 👨‍💻 About Me
 
-I am a full-stack developer focused on building scalable, secure, and high-performance digital systems. My expertise spans modern frontend technologies like React and Next.js, alongside backend development using TypeScript, Node.js, and Express. I work extensively with Supabase for authentication, database management, and real-time applications, and I am also proficient in working with MongoDB (via Mongoose) and MySQL for structured and unstructured data management.
+I am a full-stack developer focused on building scalable, secure, and high-performance digital systems. My expertise spans modern frontend technologies like React and Next.js, alongside backend development using TypeScript, Node.js, and Express. I work extensively with  MongoDB (via Mongoose) and MySQL for authentication, database management, and real-time applications, and I am also proficient in working with superbase for structured and unstructured data management.
 
 I have a strong foundation in system design, API architecture, and state management, with hands-on experience implementing authentication flows, role-based access control, and admin dashboards. My development approach emphasizes clean architecture, modularity, and maintainability.
 
