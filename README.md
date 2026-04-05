@@ -36,6 +36,9 @@ A security-focused system for protected data storage and controlled access. It h
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Oluwadiyaayobami&theme=tokyonight" />
 </p>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ## 🎯 Focus
 
 I am driven by building efficient, secure, and scalable systems that solve real-world problems. I combine strong technical execution with structured system thinking, allowing me to take projects from concept to deployment with a focus on performance and reliability.
