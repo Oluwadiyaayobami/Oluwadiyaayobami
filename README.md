@@ -26,7 +26,16 @@ A security-focused system for protected data storage and controlled access. It h
 * **Core Concepts:** Authentication systems, API design, role-based access control, system architecture
 * **Security:** Secure data handling, access control, foundational encryption concepts
 * **Other:** MATLAB (for computational and mathematical problem solving)
+## 📊 GitHub Analytics
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Oluwadiyaayobami&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oluwadiyaayobami&layout=compact&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Oluwadiyaayobami&theme=tokyonight" />
+</p>
 ## 🎯 Focus
 
 I am driven by building efficient, secure, and scalable systems that solve real-world problems. I combine strong technical execution with structured system thinking, allowing me to take projects from concept to deployment with a focus on performance and reliability.
