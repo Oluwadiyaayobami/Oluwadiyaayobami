@@ -37,7 +37,7 @@ A security-focused system for protected data storage and controlled access. It h
   <img src="https://streak-stats.demolab.com?user=Oluwadiyaayobami&theme=tokyonight" />
 </p>
 <p align="center">
-  <img src="https://wakatime.com/badge/user/<YOUR_WAKATIME_Ayobamibright>/all_time.svg" alt="WakaTime All-Time Stats"/>
+  <img src="https://wakatime.com/badge/user/<YOUR_WAKATIME_Ayobami Oluwadiya>/all_time.svg" alt="WakaTime All-Time Stats"/>
 </p>
 
 ## 🎯 Focus
